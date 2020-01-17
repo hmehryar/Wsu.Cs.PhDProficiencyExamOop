@@ -38,7 +38,7 @@ public class List extends LinkedList<String> {
 					selectRandom(verb),selectRandom(preposition)
 					);
 		sentence=sentence+".";
-		System.out.println(sentence);
+		System.out.println(sentence); 
 	}
 	
 	private String selectRandom(List inputList) {

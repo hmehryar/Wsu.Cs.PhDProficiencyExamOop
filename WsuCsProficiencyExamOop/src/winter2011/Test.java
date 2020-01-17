@@ -28,7 +28,7 @@ public class Test {
 		 article.initializeList(articles);
 		 
 		 String[] nouns=new String[] {"boy","girl","dog","town","car"};
-		 noun.initializeList(nouns);
+		 noun.initializeList(nouns); 
 		 
 		 String[] verbs=new String[] {"drove","jumped","ran","walked","skipped"};
 		 verb.initializeList(verbs);
