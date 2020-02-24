@@ -5,8 +5,6 @@
  */
 package fall2004;
 
-import java.util.ArrayList;
-
 
 public class LargeInt {
 	private String value;
